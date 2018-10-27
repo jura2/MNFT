@@ -1,4 +1,4 @@
 
 <Version: 1.02>
-Divorced w/Future update/test.png http://void.cat/edd4edf20d45d745f0901ef9dfb3c12a1ba36b3c
+/Divorced w/Future update/test.png http://void.cat/edd4edf20d45d745f0901ef9dfb3c12a1ba36b3c
 <End of Version>

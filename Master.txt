@@ -1,4 +1,1 @@
 
-<Version: 1.01>
-/update/test.rar 
-<End of Version>

@@ -1,3 +1,3 @@
 <Version: 1.01>
-/data/test update.rar https://nofile.io/g/yDPHdfB7wv2kvssSUtO9AASx1iSOepKn0MJVgGyj8hR9K3RF2PjI1Vl1EkiU8x32/test+update.rar/
+/data/test+update.rar https://nofile.io/g/yDPHdfB7wv2kvssSUtO9AASx1iSOepKn0MJVgGyj8hR9K3RF2PjI1Vl1EkiU8x32/test+update.rar/
 <End of Version>

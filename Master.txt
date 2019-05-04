@@ -1,3 +1,3 @@
 <Version: 1.01>
-/data/test.rar https://www9.zippyshare.com/d/HCadvFCn/452017/test.rar
+/www/updates/test.rar https://www9.zippyshare.com/d/HCadvFCn/452017/test.rar
 <End of Version>
